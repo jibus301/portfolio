@@ -18,7 +18,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 30px 100px;
+    padding: 30px 0px;
 }
 .logo{
     max-height: 60px;
@@ -70,7 +70,7 @@ nav ul li a:hover:after{
 }
 .content{
     position: absolute;
-    top: 35%;
+    top: 15%;
     left: 8%;
 }
 .content .title{
